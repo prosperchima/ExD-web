@@ -5921,3 +5921,548 @@ else if ($text == "031910008"){
     $response .= $display;
     $response .=$message;
 }
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 01 ASANG I
+
+ else if ($text == "032001001"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, MBIASO \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032001002"){
+  $response .= "END YOUR PULLING UNIT IS PRYSCH, AFAHA NTUP \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032001003"){
+  $response .= "END YOUR PULLING UNIT IS BUS STOP, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032001004"){
+  $response .= "END YOUR PULLING UNIT IS COLLEGE OF EDUCATION, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032001005"){
+  $response .= "END YOUR PULLING UNIT IS TOWNHALL, AFAHA IKOT/AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032001006"){
+  $response .= "END YOUR PULLING UNIT IS GOVT. SCH, AFAHA IKOT EDE \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032001007"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL,IKOT AKPA ETANG \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 02 ASANG II
+
+ else if ($text == "032002001"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, UKAT NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032002002"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT OFFIOK \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032002003"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, MBAK NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032002004"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT OTONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032002005"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, EKPENE IKPAN \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 03 ASANG III
+
+ else if ($text == "032003001"){
+  $response .= "END YOUR PULLING UNIT IS MARKET SQUARE, IKOT OKU NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032003002"){
+  $response .= "END YOUR PULLING UNIT IS NSIT DISTRICT SCH, OBOT IDIM \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032003003"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT NTAN \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032003004"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, OKUKUK \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032003005"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, OBO ATAI \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032003006"){
+  $response .= "END YOUR PULLING UNIT IS  VILLAGE SQUARE, IKOT OBIO EDIM \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 04 ASANG IV
+
+ else if ($text == "032004001"){
+  $response .= "END YOUR PULLING UNIT IS COMP. SEC. SCH, OBOTIM IKOT EKONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004002"){
+  $response .= "END YOUR PULLING UNIT IS TOWN HALL, OBOTIM IKOT EKONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004003"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, NUNG EKANEM, OBOTIM IKOT EKONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004004"){
+  $response .= "END YOUR PULLING UNIT IS TECH.SEC.SCH, OBOTIM IKOT ETIM \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004005"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, OBIOKPOK NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004006"){
+  $response .= "END YOUR PULLING UNIT IS COURT HALL, ASANG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004007"){
+  $response .= "END YOUR PULLING UNIT IS TOWN HALL, IKOT OFFIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004008"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE NDITUNG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004009"){
+  $response .= "END YOUR PULLING UNIT IS TOWN HALL, OKWO NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032004010"){
+  $response .= "END YOUR PULLING UNIT IS ST ANDREW'S AFRICAN SCH, ANYAM \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 01 ASANG V
+
+ else if ($text == "032005001"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, MBIASO \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005002"){
+  $response .= "END YOUR PULLING UNIT IS PRYSCH, AFAHA NTUP \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005003"){
+  $response .= "END YOUR PULLING UNIT IS BUS STOP, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005004"){
+  $response .= "END YOUR PULLING UNIT IS COLLEGE OF EDUCATION, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005005"){
+  $response .= "END YOUR PULLING UNIT IS TOWNHALL, AFAHA IKOT/AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005006"){
+  $response .= "END YOUR PULLING UNIT IS GOVT. SCH, AFAHA IKOT EDE \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005007"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL,IKOT AKPA ETANG \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 01 MBAISO I
+
+ else if ($text == "032006001"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, MBIASO \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006002"){
+  $response .= "END YOUR PULLING UNIT IS PRYSCH, AFAHA NTUP \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006003"){
+  $response .= "END YOUR PULLING UNIT IS BUS STOP, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006004"){
+  $response .= "END YOUR PULLING UNIT IS COLLEGE OF EDUCATION, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006005"){
+  $response .= "END YOUR PULLING UNIT IS TOWNHALL, AFAHA IKOT/AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006006"){
+  $response .= "END YOUR PULLING UNIT IS GOVT. SCH, AFAHA IKOT EDE \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006007"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL,IKOT AKPA ETANG \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 05 ASANG v
+
+ else if ($text == "032005001"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT IDEM\n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005002"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBOK \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005003"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL OBOETOK \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005004"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, OBO ETOK \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005005"){
+  $response .= "END YOUR PULLING UNIT IS CENTRAL SCH, OBO IKOT ITA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005006"){
+  $response .= "END YOUR PULLING UNIT IS  CIVIC CENTER, OBO IKOT ITA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032005007"){
+  $response .= "END YOUR PULLING UNIT IS PRY. SCH, OBO NTONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 06 MBAISO I
+
+ else if ($text == "032006001"){
+  $response .= "END YOUR PULLING UNIT IS TOWN HALL, AFAHA OFFIONG\n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006002"){
+  $response .= "END YOUR PULLING UNIT IS SAL. ARMY PRY SCH, AFAHA OFFIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006003"){
+  $response .= "END YOUR PULLING UNIT IS LUTH PRY SCH, AFAHA OFFIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006004"){
+  $response .= "END YOUR PULLING UNIT IS SEC. COMM. SCH, AFAHA OFFIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006005"){
+  $response .= "END YOUR PULLING UNIT IS HEALTH CENTER, AFAHA OFFIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006006"){
+  $response .= "END YOUR PULLING UNIT IS  ST PAUL'S PRY SCH, AFAHA OFFIONG/AFIA NSIT\n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006007"){
+  $response .= "END YOUR PULLING UNIT IS NUNG ESSIEN HALL, AFAHA OFFIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006008"){
+  $response .= "END YOUR PULLING UNIT IS AFAHA/EDEBOM PRY SCH \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006009"){
+  $response .= "END YOUR PULLING UNIT IS ADULT EDU. CENTER, IKOT OBIO ETAN \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032006010"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBIO ETAN \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 07 MBAISO II
+
+ else if ($text == "032007001"){
+  $response .= "END YOUR PULLING UNIT IS TOWN HALL, AFIA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032007002"){
+  $response .= "END YOUR PULLING UNIT IS HEALTH CENTER, AFIA NSIT URUA NKO \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032007003"){
+  $response .= "END YOUR PULLING UNIT IS YOUTH CLUB HALL, AFIA NSIT URUA NKO \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032007004"){
+  $response .= "END YOUR PULLING UNIT IS Q.I.C PRY SCH, AFIA NSIT/MBIOKPORON II \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032007005"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH MBIOKPORO II \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032007006"){
+  $response .= "END YOUR PULLING UNIT IS  COMP. SEC SCH MBIOKPORO II\n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032007007"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, IKOT ABASI NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 08 MBAISO III
+
+ else if ($text == "032008001"){
+  $response .= "END YOUR PULLING UNIT IS COMP. SEC SCH, EDEBOM I \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008002"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, EYIESANA, EDEBOM I \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008003"){
+  $response .= "END YOUR PULLING UNIT IS ST SAV. PRY SCH, EDEBOM I \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008004"){
+  $response .= "END YOUR PULLING UNIT IS MARKET SQUARE EDEBOM I \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008005"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA ABIA/IKOT OBIO ASANGA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008006"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, AFAHA ABIA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008007"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, NKWOT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032008008"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT OBIO ASANGA \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 09 MBAISO IV
+
+ else if ($text == "032009001"){
+  $response .= "END YOUR PULLING UNIT IS SEC. SCH, IKOT NYA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032009002"){
+  $response .= "END YOUR PULLING UNIT IS PRY. SCH, IKOT NYA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032009003"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE SQUARE, NUNG ENWANG/IKOT NYA \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032009004"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT EBRE \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032009005"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT AKPAN \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032009006"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT ODIONG \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032009007"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, IKOT IWUD \n";
+    $response .= $display;
+    $response .=$message;
+}
+
+
+
+
+
+
+
+//STARTING FROM THE 20TH LOCAL GOVT. NSIT IBOM
+ //WARD 10 MBAISO V
+
+ else if ($text == "032010001"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, MBIASO\n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032010002"){
+  $response .= "END YOUR PULLING UNIT IS PRY SCH, AFAHA NTUP \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032010003"){
+  $response .= "END YOUR PULLING UNIT IS BUS STOP, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032010004"){
+  $response .= "END YOUR PULLING UNIT IS COLLEGE OF EDUCATION, AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032010005"){
+  $response .= "END YOUR PULLING UNIT IS TOWN HALL, AFAHA IKOT/AFAHA NSIT \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032010006"){
+  $response .= "END YOUR PULLING UNIT IS GOVT. SCH, AFAHA IKOT EDE \n";
+    $response .= $display;
+    $response .=$message;
+}
+else if ($text == "032010007"){
+  $response .= "END YOUR PULLING UNIT IS VILLAGE HALL, IKOT AKPA ETANG \n";
+    $response .= $display;
+    $response .=$message;
+}
